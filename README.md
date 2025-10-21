@@ -44,10 +44,4 @@ This experiment demonstrates how the choice of **loss function** and **learning 
 2. Upload the **Albanian.txt** and **English.txt** files to the Colab environment.
 3. Run all the cells in the notebook to train and evaluate the model.
 
-## Author
 
-**Arnold Cobo**
-
-## Feedback
-
-Enjoy using this project! If you have any comments, constructive criticism, or bug reports, please feel free to [open an issue]() on this repository. Your feedback is greatly appreciated.
